@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.footer{
+	background:black;
+	color:white;
+	padding:30px;
+}
+.header{
+	font-size:larger;
+	font-style:bold;
+	background:lightgoldenrodyellow;
+}
